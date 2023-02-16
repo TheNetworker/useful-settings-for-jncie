@@ -14,6 +14,8 @@ or, worse, A notification to restart your laptop to apply unnecessary windows up
 
 in this document, You will see different optimization settings for exam applications such as Windows, SecureCRT, and Notepad++. At first glance, you will feel this is a long list to do. However, Remember, you need to do it only a single time for something like `Windows Settings`. In other settings, you need to do them a couple of times and they will be saved in your muscle memory.
 
+
+
 # Windows Settings
 
 Below are some settings to tweak the Microsoft `Windows 10` or Microsoft `Windows 11`
@@ -168,6 +170,10 @@ REG ADD "hklm\software\policies\microsoft\windows defender" /v DisableAntiSpywar
 
 
 
+
+
+
+
 # SecureCRT Settings
 
 As you already know, SecureCRT is the official terminal for JNCIE exams. You will get a licensed version of SecureCRT 8.5 running over Windows VM (different than your windows operating system running on your laptop). Below are a few settings needed to be adjusted on the SecureCRT instance 
@@ -251,6 +257,10 @@ You can access the default session options from `Edit > Edit Default Session`
 - Example of bgp summary after applying the keyword highlighting
 
   ![image-20230209195611551](assets/image-20230209195611551.png)
+
+
+
+
 
 
 
